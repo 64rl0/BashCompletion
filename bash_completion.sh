@@ -1,4 +1,4 @@
-# base_completion
+# bash_completion.sh
 # vim: ft=sh
 
 #   __|    \    _ \  |      _ \   __| __ __| __ __|
