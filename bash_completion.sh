@@ -8,6 +8,6 @@
 
 for completion in "${HOME}/.bash/completion/bash_completion.d/"*
 do
-    [[ -r "${completion}" ]] && source "${completion}"
+    [[ -r "${completion}" ]] && . "${completion}"
 done
 
